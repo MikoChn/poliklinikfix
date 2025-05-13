@@ -1,3 +1,4 @@
 # poliklinikfix
 
-memakai xampp juga karena native jadi langsung localhost aja dengan nama file yang sama lalu masukan database dengan nama poliklinik juga dan jalankan 
+use your local host like xampp and this is native code and import the database on mysql with the name of poliklinik and start the website 
+use it for free 
